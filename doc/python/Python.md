@@ -1,0 +1,1 @@
+[Orden de precedencia](https://interactivechaos.com/es/manual/tutorial-de-python/precedencia-de-operadores )

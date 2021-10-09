@@ -1,2 +1,1 @@
-# DataScience
-Course of Machine Learning &amp; Data science
+# Data Science - Coder House

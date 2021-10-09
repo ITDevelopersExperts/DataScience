@@ -1,0 +1,8 @@
+zlib~=1.2.11
+pip~=21.2.4
+wheel~=0.37.0
+openssl~=1.1.1l
+certifi~=2021.5.30
+setuptools~=58.0.4
+readline~=8.1
+numpy~=1.20.3
