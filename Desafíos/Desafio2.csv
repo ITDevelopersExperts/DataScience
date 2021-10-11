@@ -80,7 +80,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/6/2020 12:36:19,Hombre,38,Argentina,150000,100000
 7/6/2020 12:36:51,Hombre,24,Argentina,118000,93000
 7/6/2020 12:37:40,Hombre,31,Argentina,300000,300000
-7/6/2020 12:37:48,Hombre,29,Argentina,"60240,96",50000
 7/6/2020 12:40:20,Hombre,38,Argentina,99000,78000
 7/6/2020 12:40:57,Mujer,29,Argentina,100625,74989
 7/6/2020 12:44:38,Hombre,40,Argentina,40000,34500
@@ -105,7 +104,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/6/2020 13:29:05,Hombre,29,Argentina,150000,117000
 7/6/2020 13:42:50,Hombre,29,Argentina,41000,35500
 7/6/2020 13:43:13,Hombre,32,Argentina,33000,27
-7/6/2020 13:45:32,Hombre,38,Argentina,84762,84762
 7/6/2020 13:46:39,Mujer,33,Argentina,80000,67
 7/6/2020 13:53:22,Hombre,30,Argentina,17000,14000
 7/6/2020 13:53:22,Hombre,24,Argentina,110000,80000
@@ -205,7 +203,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/7/2020 10:47:42,Hombre,25,Argentina,85,69
 7/7/2020 10:54:45,Hombre,25,Argentina,60000,52000
 7/7/2020 10:56:41,Hombre,26,Argentina,61440,56586
-7/7/2020 11:08:04,Hombre,30,Argentina,"124387,2",92650
 7/7/2020 11:17:18,Hombre,25,Argentina,90000,73000
 7/7/2020 11:21:15,Hombre,26,Argentina,110000,89000
 7/7/2020 12:06:04,Hombre,24,Argentina,105000,87000
@@ -231,7 +228,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/7/2020 15:53:51,Hombre,27,Argentina,37500,31500
 7/7/2020 15:57:54,Mujer,21,Argentina,35707,32125
 7/7/2020 16:27:15,Hombre,31,Argentina,70000,54000
-7/7/2020 16:33:26,Hombre,23,Argentina,"42981,25",35674
 7/7/2020 16:35:12,Mujer,33,Argentina,165000,121000
 7/7/2020 16:47:42,Hombre,32,Argentina,99000,77000
 7/7/2020 18:05:33,Hombre,39,Argentina,65000,50000
@@ -244,7 +240,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/7/2020 19:45:35,Hombre,25,Argentina,180000,130000
 7/7/2020 19:58:27,Hombre,24,Argentina,100000,100000
 7/7/2020 19:59:05,Hombre,25,Argentina,110000,84000
-7/7/2020 20:01:24,Hombre,26,Argentina,21.329,21.329
 7/7/2020 20:14:26,Hombre,25,Chile,2302000,2000000
 7/7/2020 20:23:04,Hombre,27,Argentina,20000,38000
 7/7/2020 20:23:14,Hombre,41,Argentina,180000,180000
@@ -266,7 +261,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/7/2020 23:43:08,Mujer,33,Argentina,180000,169000
 7/7/2020 23:45:04,Hombre,37,Argentina,125000,105000
 7/7/2020 23:47:21,Hombre,37,Argentina,800000,500000
-7/7/2020 23:56:14,Hombre,23,Argentina,"50225,43","41385,75"
 7/7/2020 23:59:52,Mujer,27,Argentina,83000,68000
 7/8/2020 0:00:00,Mujer,27,Argentina,83000,68000
 7/8/2020 0:02:02,Mujer,29,Argentina,47000,40000
@@ -280,7 +274,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/8/2020 0:14:08,Mujer,22,Argentina,39300,32700
 7/8/2020 0:15:17,Mujer,25,Argentina,40000,34500
 7/8/2020 0:15:30,Hombre,25,Argentina,21800,19800
-7/8/2020 0:17:26,Mujer,22,Argentina,"39,3","32,8"
 7/8/2020 0:18:34,Hombre,32,Argentina,124000,93000
 7/8/2020 0:18:52,Hombre,27,Argentina,89000,76000
 7/8/2020 0:19:24,Hombre,40,Argentina,140000,92000
@@ -364,13 +357,10 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/8/2020 14:09:00,Hombre,31,Argentina,132000,96000
 7/8/2020 14:20:04,Hombre,35,Argentina,90000,85000
 7/8/2020 14:21:33,Hombre,34,Argentina,99000,95000
-7/8/2020 14:29:21,Hombre,29,México,"38356,2",30000
 7/8/2020 14:43:45,Hombre,31,Argentina,66200,54946
 7/8/2020 14:49:12,Hombre,20,Argentina,57000,47400
 7/8/2020 14:55:30,Hombre,47,Argentina,130000,93000
 7/8/2020 15:16:59,Hombre,40,Argentina,140000,110000
-7/8/2020 15:35:45,Hombre,35,Argentina,"265558,72",165000
-7/8/2020 16:28:26,Hombre,26,Argentina,"72007,42",57967
 7/8/2020 16:30:39,Hombre,22,Argentina,34531,31495
 7/8/2020 16:40:34,Hombre,24,Argentina,124000,91000
 7/8/2020 16:47:53,Hombre,45,Argentina,170000,130000
@@ -489,7 +479,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/9/2020 12:17:41,Hombre,39,Argentina,190000,165000
 7/9/2020 12:19:59,Hombre,27,Argentina,220000,149000
 7/9/2020 12:20:32,Hombre,30,Argentina,110000,85
-7/9/2020 12:23:19,Hombre,31,Argentina,1504,1504
 7/9/2020 12:26:04,Hombre,30,Argentina,90000,72500
 7/9/2020 12:28:30,Hombre,49,Argentina,89500,75000
 7/9/2020 12:28:38,Mujer,26,Argentina,83000,67000
@@ -499,7 +488,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/9/2020 12:32:09,Hombre,28,Argentina,52186,50000
 7/9/2020 12:45:04,Hombre,32,Argentina,92000,77000
 7/9/2020 12:49:50,Hombre,29,Argentina,66000,55000
-7/9/2020 12:59:18,Hombre,34,Argentina,"126000,5",104580
 7/9/2020 13:02:58,Hombre,42,Argentina,180000,130000
 7/9/2020 13:04:16,Hombre,26,Argentina,85000,69000
 7/9/2020 13:13:01,Hombre,30,Argentina,70000,330000
@@ -544,7 +532,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/9/2020 15:10:45,Hombre,43,Argentina,100000,78000
 7/9/2020 15:11:51,Hombre,23,Argentina,55000,43000
 7/9/2020 15:12:27,Hombre,31,Argentina,69000,57000
-7/9/2020 15:14:09,Hombre,25,Argentina,66000,66000
 7/9/2020 15:17:38,Hombre,34,Uruguay,170000,90000
 7/9/2020 15:51:53,Hombre,24,Argentina,88000,80000
 7/9/2020 15:56:27,Hombre,32,Argentina,130000,130000
@@ -664,7 +651,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/10/2020 21:14:03,Hombre,34,Argentina,29450,25550
 7/10/2020 22:10:38,Hombre,26,Argentina,101000,79000
 7/10/2020 22:18:32,Hombre,42,Argentina,100000,80000
-7/10/2020 22:41:08,Hombre,26,Argentina,"60240,96",50000
 7/10/2020 23:02:58,Mujer,31,Argentina,153800,121000
 7/10/2020 23:13:58,Hombre,38,Argentina,140000,80000
 7/10/2020 23:18:07,Hombre,38,Argentina,140000,80000
@@ -693,7 +679,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/11/2020 0:09:58,Hombre,31,Argentina,90,75
 7/11/2020 0:11:56,Mujer,28,Argentina,99825,99825
 7/11/2020 0:18:20,Hombre,30,Argentina,60000,50000
-7/11/2020 0:21:24,Hombre,48,Argentina,88450,88450
 7/11/2020 0:34:33,Hombre,45,Argentina,44.907,37.273
 7/11/2020 0:42:14,Hombre,24,Argentina,115200,90000
 7/11/2020 0:57:35,Hombre,23,Argentina,35000,29050
@@ -728,7 +713,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/11/2020 17:26:06,Mujer,31,Argentina,152300,107500
 7/11/2020 17:41:09,Hombre,26,Argentina,230000,152000
 7/11/2020 18:08:03,Hombre,49,Argentina,88060,95500
-7/11/2020 18:38:27,Hombre,42,Argentina,81.783,81.783
 7/11/2020 19:49:50,Hombre,28,Argentina,6400,80000
 7/11/2020 20:48:45,Mujer,37,Argentina,70000,55000
 7/11/2020 20:51:30,Hombre,32,Argentina,235000,150000
@@ -751,7 +735,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/12/2020 11:30:52,Hombre,32,Argentina,126000,123000
 7/12/2020 12:07:17,Mujer,26,Argentina,45000,38500
 7/12/2020 14:01:43,Hombre,22,Argentina,30000,30000
-7/12/2020 14:39:08,Hombre,25,Argentina,"47291,36","38306,71"
 7/12/2020 15:30:50,Hombre,28,Argentina,92000,79000
 7/12/2020 15:33:12,Hombre,31,Argentina,75,60
 7/12/2020 17:18:02,Hombre,26,Argentina,45000,37200
@@ -805,7 +788,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/13/2020 10:40:21,Mujer,47,Argentina,92914,92914
 7/13/2020 10:50:01,Mujer,52,Argentina,76500,65490
 7/13/2020 11:08:01,Hombre,26,Argentina,114897,87312
-7/13/2020 11:18:02,Hombre,25,Argentina,43230,43230
 7/13/2020 11:22:16,Hombre,33,Argentina,540000,480000
 7/13/2020 11:26:52,Mujer,32,Argentina,124600,100000
 7/13/2020 11:45:04,Hombre,24,Argentina,65000,52000
@@ -816,7 +798,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/13/2020 13:53:58,Hombre,26,Argentina,100000,78000
 7/13/2020 13:59:13,Hombre,30,Argentina,100000,84000
 7/13/2020 14:07:03,Hombre,44,Argentina,244000,150000
-7/13/2020 14:07:29,Hombre,47,Argentina,"157729,26",111127
 7/13/2020 14:08:14,Hombre,22,Argentina,50690,40300
 7/13/2020 14:09:04,Hombre,28,México,26000,21000
 7/13/2020 14:09:20,Hombre,51,Argentina,50000,40000
@@ -853,7 +834,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/13/2020 15:23:07,Hombre,25,Argentina,95,75000
 7/13/2020 15:25:38,Hombre,19,Argentina,90000,85000
 7/13/2020 15:25:40,Hombre,25,Argentina,340000,280000
-7/13/2020 15:29:30,Mujer,28,Argentina,"151800,16",107024
 7/13/2020 15:31:35,Hombre,30,Argentina,48000,39840
 7/13/2020 15:34:10,Hombre,22,Argentina,63000,53000
 7/13/2020 15:35:07,Hombre,22,Argentina,107784,79879
@@ -876,7 +856,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/13/2020 16:32:50,Hombre,41,Argentina,92000,80000
 7/13/2020 16:34:15,Hombre,25,Argentina,253000,170000
 7/13/2020 16:41:11,Mujer,23,Argentina,88500,69100
-7/13/2020 16:41:21,Mujer,30,Argentina,"58817,92","48815,07"
 7/13/2020 16:42:36,Hombre,36,Argentina,560000,250000
 7/13/2020 16:46:25,Hombre,29,Argentina,20000,20000
 7/13/2020 16:49:51,Hombre,41,Argentina,235000,200000
@@ -902,7 +881,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/13/2020 18:07:18,Hombre,33,Argentina,165086,114085
 7/13/2020 18:09:03,Hombre,30,Argentina,40000,33000
 7/13/2020 18:11:15,Hombre,30,Argentina,40000,33000
-7/13/2020 18:11:29,Hombre,36,Argentina,"107,23",76670
 7/13/2020 18:46:48,Hombre,32,Argentina,40000,30000
 7/13/2020 18:52:13,Hombre,46,Argentina,420000,420000
 7/13/2020 19:17:08,Hombre,36,Uruguay,124500,75500
@@ -959,7 +937,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 9:40:23,Hombre,52,Argentina,69000,57000
 7/14/2020 9:44:35,Hombre,28,Argentina,90000,70000
 7/14/2020 9:51:06,Hombre,35,Argentina,154000,106000
-7/14/2020 10:00:07,Mujer,22,Argentina,48,48
 7/14/2020 10:01:43,Hombre,26,Argentina,70000,59000
 7/14/2020 10:05:03,Mujer,28,Argentina,123000,88000
 7/14/2020 10:06:52,Hombre,25,Argentina,85000,70000
@@ -1052,7 +1029,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 13:00:38,Hombre,39,Argentina,120705,90620
 7/14/2020 13:00:53,Hombre,26,Argentina,103000,83000
 7/14/2020 13:00:51,Hombre,35,Argentina,270000,270000
-7/14/2020 13:01:10,Mujer,22,Argentina,"78292,77","64983,19"
 7/14/2020 13:01:12,Hombre,33,Argentina,78346,66098
 7/14/2020 13:01:26,Hombre,33,Argentina,88000,88000
 7/14/2020 13:01:28,Hombre,31,Argentina,87000,75000
@@ -1110,7 +1086,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 13:10:56,Mujer,20,Argentina,89800,78000
 7/14/2020 13:11:09,Hombre,31,Argentina,105000,85000
 7/14/2020 13:11:17,Hombre,37,Argentina,85000,75000
-7/14/2020 13:11:23,Hombre,27,Argentina,"69382,17","55839,26"
 7/14/2020 13:11:26,Hombre,30,Argentina,75000,65000
 7/14/2020 13:11:29,Hombre,39,Argentina,87000,73000
 7/14/2020 13:11:32,Hombre,23,Argentina,38700,38700
@@ -1146,7 +1121,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 13:15:05,Hombre,42,Argentina,120000,120000
 7/14/2020 13:15:06,Hombre,24,Argentina,75000,60000
 7/14/2020 13:15:18,Hombre,30,Argentina,125000,93000
-7/14/2020 13:15:20,Hombre,28,Argentina,"60240,96",50000
 7/14/2020 13:15:13,Hombre,36,Argentina,115000,87
 7/14/2020 13:15:31,Hombre,26,Argentina,55000,48000
 7/14/2020 13:15:39,Hombre,27,Argentina,660000,418000
@@ -1159,7 +1133,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 13:16:16,Hombre,47,Argentina,165000,120000
 7/14/2020 13:16:16,Hombre,22,Argentina,60000,50000
 7/14/2020 13:17:08,Mujer,32,Argentina,80000,68000
-7/14/2020 13:17:15,Mujer,29,Argentina,"67967,74","67967,74"
 7/14/2020 13:17:51,Hombre,22,Argentina,65000,57000
 7/14/2020 13:17:52,Hombre,26,Argentina,135000,100000
 7/14/2020 13:18:00,Mujer,30,Argentina,80000,66400
@@ -1167,7 +1140,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 13:18:12,Hombre,26,Argentina,140000,100000
 7/14/2020 13:18:12,Hombre,28,Argentina,185000,123000
 7/14/2020 13:18:07,Hombre,45,Argentina,135000,112000
-7/14/2020 13:18:17,Mujer,38,Argentina,"133,57",110.863
 7/14/2020 13:18:19,Hombre,26,Argentina,200000,130000
 7/14/2020 13:18:29,Hombre,28,Argentina,322000,260000
 7/14/2020 13:18:34,Hombre,51,Argentina,45000,45000
@@ -1189,7 +1161,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 13:20:30,Hombre,27,Argentina,120000,89000
 7/14/2020 13:20:35,Hombre,31,Argentina,112000,85000
 7/14/2020 13:20:35,Hombre,32,Argentina,250000,170000
-7/14/2020 13:20:42,Hombre,24,Argentina,80300,80300
 7/14/2020 13:20:53,Hombre,21,Argentina,38000,30000
 7/14/2020 13:21:19,Hombre,42,Argentina,110000,90000
 7/14/2020 13:21:23,Mujer,55,Argentina,100000,80000
@@ -1233,7 +1204,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 13:27:14,Mujer,35,Argentina,50,50
 7/14/2020 13:27:25,Hombre,25,Argentina,103000,80320
 7/14/2020 13:28:02,Hombre,35,Argentina,185000,131000
-7/14/2020 13:28:13,Hombre,27,Argentina,"66714,38","53132,58"
 7/14/2020 13:28:34,Otros,22,Argentina,90000,86000
 7/14/2020 13:28:39,Hombre,30,Argentina,360000,360000
 7/14/2020 13:28:41,Hombre,39,Argentina,420000,330000
@@ -1247,9 +1217,7 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 13:29:45,Mujer,37,Argentina,72540,62000
 7/14/2020 13:29:56,Hombre,28,Argentina,86487,71519
 7/14/2020 13:30:22,Hombre,35,Argentina,200000,115000
-7/14/2020 13:30:25,Hombre,23,Argentina,"43257,4","35903,65"
 7/14/2020 13:30:33,Hombre,30,Argentina,85000,65000
-7/14/2020 13:30:37,Hombre,40,Argentina,"60029,62","57081,68"
 7/14/2020 13:30:50,Hombre,28,Argentina,75000,61000
 7/14/2020 13:30:54,Mujer,32,Argentina,99800,85000
 7/14/2020 13:30:58,Hombre,25,Argentina,110000,84400
@@ -1326,7 +1294,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 13:41:08,Hombre,22,Argentina,52300,44500
 7/14/2020 13:41:16,Hombre,38,Argentina,140000,100000
 7/14/2020 13:41:34,Hombre,27,Argentina,114000,85000
-7/14/2020 13:41:40,Hombre,25,Argentina,"66292,88","55022,36"
 7/14/2020 13:41:44,Hombre,32,Argentina,108000,85000
 7/14/2020 13:41:52,Hombre,26,Argentina,115000,87000
 7/14/2020 13:42:02,Hombre,42,Argentina,220000,132000
@@ -1404,7 +1371,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 13:52:28,Hombre,24,Argentina,120000,120000
 7/14/2020 13:52:36,Hombre,38,Argentina,278000,189000
 7/14/2020 13:52:37,Hombre,32,Argentina,74000,55000
-7/14/2020 13:52:46,Hombre,43,Argentina,"162421,88",116472
 7/14/2020 13:53:05,Hombre,35,Argentina,170000,122000
 7/14/2020 13:53:20,Hombre,52,Argentina,218000,189000
 7/14/2020 13:53:31,Mujer,30,Argentina,140000,118000
@@ -1435,7 +1401,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 13:57:07,Hombre,27,Argentina,135000,120000
 7/14/2020 13:57:21,Hombre,41,Argentina,100000,75000
 7/14/2020 13:57:40,Hombre,24,Argentina,92000,74000
-7/14/2020 13:57:43,Hombre,30,Argentina,140557,140557
 7/14/2020 13:57:44,Mujer,26,Argentina,40000,33000
 7/14/2020 13:57:58,Hombre,24,Argentina,53000,42000
 7/14/2020 13:58:01,Hombre,22,Argentina,38569,39037
@@ -1449,9 +1414,7 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 13:58:39,Hombre,41,Argentina,153660,108197
 7/14/2020 13:59:27,Hombre,41,México,33000,14000
 7/14/2020 13:59:31,Hombre,40,Argentina,190000,130000
-7/14/2020 13:59:45,Hombre,33,Argentina,126959,126959
 7/14/2020 13:59:49,Hombre,28,Argentina,3000,26000
-7/14/2020 13:59:51,Hombre,38,Argentina,"35265,03",34180
 7/14/2020 14:00:02,Hombre,32,Argentina,100000,80000
 7/14/2020 14:00:04,Hombre,41,Argentina,180000,180000
 7/14/2020 14:00:12,Mujer,45,Argentina,90000,75000
@@ -1552,7 +1515,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 14:13:04,Hombre,33,Argentina,127000,99690
 7/14/2020 14:13:10,Hombre,37,Argentina,82100,6700
 7/14/2020 14:13:20,Hombre,28,Argentina,68000,62000
-7/14/2020 14:13:22,Hombre,36,Argentina,"148710,52","108516,39"
 7/14/2020 14:13:23,Mujer,30,Argentina,48000,40000
 7/14/2020 14:13:30,Hombre,25,Uruguay,62000,45000
 7/14/2020 14:13:33,Hombre,34,Argentina,200000,140000
@@ -1597,9 +1559,7 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 14:18:34,Hombre,29,Argentina,70506,59000
 7/14/2020 14:18:46,Hombre,24,Argentina,165000,130000
 7/14/2020 14:19:04,Hombre,30,Argentina,80000,66400
-7/14/2020 14:19:07,Hombre,31,Argentina,"55443,72","44632,2"
 7/14/2020 14:19:08,Mujer,52,Argentina,85000,72000
-7/14/2020 14:19:08,Hombre,24,Argentina,53880,53880
 7/14/2020 14:19:09,Hombre,29,Argentina,67600,58870
 7/14/2020 14:19:13,Hombre,30,Argentina,183000,120000
 7/14/2020 14:19:26,Hombre,37,Argentina,176000,123888
@@ -1621,7 +1581,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 14:21:36,Hombre,30,Argentina,75000,65000
 7/14/2020 14:21:39,Mujer,27,Argentina,95800,78000
 7/14/2020 14:21:48,Hombre,40,Argentina,140000,140000
-7/14/2020 14:21:56,Hombre,24,Argentina,"30677,4",21318
 7/14/2020 14:21:57,Hombre,34,Argentina,60004,48304
 7/14/2020 14:22:02,Mujer,37,Argentina,62000,62000
 7/14/2020 14:22:04,Hombre,37,Argentina,63000,52290
@@ -1659,9 +1618,7 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 14:26:19,Hombre,31,Argentina,78313,65000
 7/14/2020 14:26:21,Hombre,39,Argentina,137000,99200
 7/14/2020 14:26:23,Mujer,28,Argentina,90000,66000
-7/14/2020 14:26:26,Hombre,43,Argentina,"206908,01","206908,01"
 7/14/2020 14:26:31,Hombre,42,Argentina,117000,95000
-7/14/2020 14:26:37,Hombre,23,Argentina,"52,5",43.576
 7/14/2020 14:26:40,Hombre,37,Argentina,600000,415000
 7/14/2020 14:26:51,Hombre,45,Argentina,120000,86000
 7/14/2020 14:26:58,Hombre,30,Argentina,123000,100000
@@ -1703,7 +1660,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 14:32:04,Hombre,22,Argentina,90000,85000
 7/14/2020 14:32:05,Hombre,26,Argentina,185000,185000
 7/14/2020 14:32:06,Hombre,38,Argentina,205000,130000
-7/14/2020 14:32:09,Hombre,39,Argentina,"313751,46",207020
 7/14/2020 14:32:14,Hombre,30,Argentina,56000,46000
 7/14/2020 14:32:16,Hombre,24,Argentina,45000,36100
 7/14/2020 14:32:28,Hombre,23,Argentina,65000,52000
@@ -1721,7 +1677,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 14:34:15,Mujer,36,Argentina,392000,392000
 7/14/2020 14:34:37,Hombre,39,Argentina,93000,72000
 7/14/2020 14:34:43,Hombre,35,Argentina,66400,55000
-7/14/2020 14:34:47,Mujer,31,Argentina,"82,3",67000
 7/14/2020 14:35:01,Hombre,43,Argentina,300000,180000
 7/14/2020 14:35:03,Hombre,25,Argentina,37000,30000
 7/14/2020 14:35:03,Hombre,32,Argentina,113000,85000
@@ -1780,7 +1735,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 14:42:16,Hombre,23,Argentina,163000,106000
 7/14/2020 14:42:21,Hombre,38,Argentina,23300,22100
 7/14/2020 14:42:36,Hombre,26,Argentina,105000,78000
-7/14/2020 14:42:41,Hombre,29,Argentina,"146675,63","100866,79"
 7/14/2020 14:42:42,Hombre,53,Argentina,130000,100000
 7/14/2020 14:42:56,Hombre,35,Argentina,800000,500000
 7/14/2020 14:43:09,Hombre,38,Argentina,180000,130000
@@ -1856,7 +1810,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 14:51:04,Mujer,38,Argentina,80000,80000
 7/14/2020 14:51:11,Hombre,30,Argentina,11300,11300
 7/14/2020 14:51:17,Hombre,19,Argentina,110000,93000
-7/14/2020 14:51:34,Hombre,27,Argentina,"108973,17","84521,8"
 7/14/2020 14:51:34,Hombre,28,Argentina,220000,145
 7/14/2020 14:51:35,Hombre,36,Argentina,314556,170000
 7/14/2020 14:51:35,Hombre,35,Argentina,123000,95000
@@ -1871,7 +1824,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 14:52:46,Hombre,30,Argentina,600000,600000
 7/14/2020 14:52:51,Hombre,28,Argentina,159000,113000
 7/14/2020 14:53:07,Hombre,28,Argentina,288775,288775
-7/14/2020 14:53:10,Hombre,33,Argentina,145.576,145.576
 7/14/2020 14:53:21,Hombre,34,Argentina,160000,113000
 7/14/2020 14:53:23,Hombre,30,Argentina,39000,47000
 7/14/2020 14:53:56,Hombre,30,Argentina,70000,54000
@@ -1886,7 +1838,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 14:55:10,Hombre,27,Argentina,32,29500
 7/14/2020 14:55:15,Hombre,42,Argentina,55000,298000
 7/14/2020 14:55:31,Hombre,25,Argentina,53000,50000
-7/14/2020 14:55:33,Hombre,26,Argentina,"178220,25","169720,25"
 7/14/2020 14:56:05,Hombre,27,Argentina,86000,72000
 7/14/2020 14:56:25,Mujer,42,Argentina,160000,130000
 7/14/2020 14:56:45,Mujer,31,Argentina,175000,110000
@@ -2004,7 +1955,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 15:13:36,Hombre,29,Argentina,40000,34000
 7/14/2020 15:13:51,Hombre,28,Argentina,100000,80000
 7/14/2020 15:13:53,Hombre,38,Argentina,350000,240000
-7/14/2020 15:14:20,Hombre,33,Argentina,"87639,89","74854,81"
 7/14/2020 15:14:45,Hombre,35,Argentina,124000,104000
 7/14/2020 15:14:49,Hombre,39,Argentina,115000,89000
 7/14/2020 15:15:01,Hombre,24,Argentina,54000,46000
@@ -2031,7 +1981,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 15:18:40,Hombre,29,Guatemala,13500,12750
 7/14/2020 15:18:44,Hombre,35,Argentina,430000,430000
 7/14/2020 15:19:04,Hombre,40,Argentina,160000,120000
-7/14/2020 15:19:16,Hombre,28,Argentina,"47080,72",39077
 7/14/2020 15:19:16,Hombre,41,Argentina,200000,200000
 7/14/2020 15:19:22,Hombre,33,Argentina,250000,175000
 7/14/2020 15:19:39,Hombre,30,Argentina,300000,187000
@@ -2068,7 +2017,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 15:26:46,Hombre,40,Argentina,72000,67000
 7/14/2020 15:26:50,Hombre,21,Argentina,42000,36000
 7/14/2020 15:26:55,Mujer,30,Argentina,58160,47500
-7/14/2020 15:26:56,Hombre,23,Argentina,"63251,06",58431
 7/14/2020 15:27:05,Hombre,27,Argentina,74700,62000
 7/14/2020 15:27:12,Hombre,23,Argentina,140500,103000
 7/14/2020 15:27:22,Hombre,30,Argentina,72000,59000
@@ -2103,7 +2051,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 15:35:23,Hombre,48,Argentina,215000,150000
 7/14/2020 15:35:24,Hombre,28,Argentina,1033000,86000
 7/14/2020 15:35:30,Hombre,40,Argentina,350000,33000
-7/14/2020 15:35:31,Hombre,37,Argentina,"137073,78",100000
 7/14/2020 15:36:14,Hombre,40,Argentina,100000,77000
 7/14/2020 15:36:28,Hombre,32,Argentina,170000,125000
 7/14/2020 15:36:32,Hombre,47,Argentina,500000,350000
@@ -2305,7 +2252,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 16:50:31,Hombre,39,Argentina,175000,125000
 7/14/2020 16:50:46,Hombre,32,Argentina,150000,105000
 7/14/2020 16:51:10,Hombre,32,Argentina,225000,142000
-7/14/2020 16:52:55,Mujer,40,Argentina,"81842,71",70681
 7/14/2020 16:52:58,Hombre,30,Argentina,65000,53000
 7/14/2020 16:53:27,Hombre,25,Argentina,560000,560000
 7/14/2020 16:53:29,Hombre,25,Argentina,45000,39000
@@ -2344,8 +2290,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 17:06:17,Hombre,43,Argentina,184000,120000
 7/14/2020 17:06:38,Hombre,31,Argentina,281600,281600
 7/14/2020 17:07:51,Hombre,33,Argentina,80000,60000
-7/14/2020 17:08:30,Hombre,25,Argentina,"66292,88","55022,36"
-7/14/2020 17:09:53,Mujer,29,Argentina,"40,8","33,4"
 7/14/2020 17:10:35,Hombre,25,Argentina,170000,125000
 7/14/2020 17:10:59,Hombre,46,Argentina,95000,72000
 7/14/2020 17:11:01,Hombre,47,Argentina,88000,69000
@@ -2375,7 +2319,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 17:26:15,Hombre,29,Argentina,72000,59000
 7/14/2020 17:26:56,Hombre,31,Argentina,82051,71401
 7/14/2020 17:26:59,Hombre,24,Argentina,32000,25000
-7/14/2020 17:27:09,Mujer,29,Argentina,"53899,67",43928
 7/14/2020 17:28:32,Hombre,40,Argentina,130000,90000
 7/14/2020 17:29:15,Hombre,42,Argentina,160000,140000
 7/14/2020 17:29:42,Hombre,28,Argentina,220000,145
@@ -2399,7 +2342,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 17:37:05,Hombre,38,Argentina,87000,57036
 7/14/2020 17:37:42,Hombre,35,Uruguay,116795,69505
 7/14/2020 17:38:00,Hombre,26,Argentina,72000,60000
-7/14/2020 17:39:05,Mujer,31,Argentina,"36,6",30
 7/14/2020 17:40:05,Hombre,32,Argentina,115000,100000
 7/14/2020 17:40:38,Hombre,30,Argentina,500000,450000
 7/14/2020 17:41:47,Hombre,36,Argentina,190000,150000
@@ -2418,7 +2360,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 17:49:33,Hombre,37,Argentina,58700,48500
 7/14/2020 17:49:51,Hombre,40,Argentina,100000,100000
 7/14/2020 17:50:10,Hombre,32,Argentina,160000,100000
-7/14/2020 17:50:56,Hombre,30,Argentina,"80914,8",64636
 7/14/2020 17:51:31,Hombre,24,Argentina,65000,55000
 7/14/2020 17:51:53,Hombre,39,Argentina,226000,160000
 7/14/2020 17:53:50,Hombre,45,Argentina,320000,265000
@@ -2539,7 +2480,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 19:42:51,Hombre,28,Argentina,160000,120000
 7/14/2020 19:44:02,Hombre,32,Argentina,115,90
 7/14/2020 19:44:51,Mujer,30,Argentina,93500,62000
-7/14/2020 19:46:23,Hombre,32,Argentina,"58216,87",48000
 7/14/2020 19:47:40,Hombre,36,Argentina,175000,175000
 7/14/2020 19:50:01,Hombre,32,Argentina,184000,103000
 7/14/2020 19:51:39,Hombre,32,Argentina,50000,43500
@@ -2575,7 +2515,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 20:38:11,Hombre,34,Argentina,150000,100000
 7/14/2020 20:48:25,Mujer,35,Argentina,100000,78000
 7/14/2020 20:53:00,Hombre,37,Argentina,48000,40000
-7/14/2020 20:55:31,Hombre,21,Argentina,125700,125700
 7/14/2020 20:58:49,Hombre,22,Argentina,70000,55000
 7/14/2020 20:59:02,Hombre,29,Argentina,48789,38200
 7/14/2020 21:00:25,Mujer,26,Argentina,38700,48000
@@ -2618,9 +2557,7 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 21:57:56,Hombre,33,Argentina,105000,85000
 7/14/2020 22:04:13,Hombre,32,Argentina,56,41
 7/14/2020 22:04:46,Hombre,30,Argentina,1031250,1031250
-7/14/2020 22:07:02,Mujer,32,Argentina,"54167,33","44521,7"
 7/14/2020 22:07:55,Hombre,27,Argentina,195000,128000
-7/14/2020 22:11:56,Hombre,28,Argentina,"61440,32","57270,27"
 7/14/2020 22:20:37,Hombre,27,Argentina,63000,54000
 7/14/2020 22:24:48,Hombre,25,Argentina,120000,90000
 7/14/2020 22:26:08,Hombre,32,Argentina,232000,153800
@@ -2632,7 +2569,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/14/2020 22:44:34,Hombre,24,Colombia,870000,870000
 7/14/2020 22:47:48,Hombre,42,Argentina,273208,230000
 7/14/2020 22:54:01,Hombre,33,Argentina,350000,340000
-7/14/2020 22:59:20,Mujer,41,Argentina,"37,8",34
 7/14/2020 23:05:05,Hombre,30,Argentina,85000,72000
 7/14/2020 23:07:53,Hombre,35,Argentina,100000,78900
 7/14/2020 23:11:39,Hombre,27,Argentina,38252,35484
@@ -2671,7 +2607,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/15/2020 2:47:27,Hombre,30,Argentina,130000,95841
 7/15/2020 2:51:03,Hombre,29,Argentina,280000,275000
 7/15/2020 2:58:11,Hombre,39,Argentina,750000,750000
-7/15/2020 3:07:11,Hombre,25,Argentina,"119623,84",75382
 7/15/2020 3:37:30,Mujer,31,Argentina,67000,54800
 7/15/2020 6:27:43,Hombre,36,Argentina,133000,105000
 7/15/2020 7:00:13,Hombre,31,Argentina,70000,60000
@@ -2745,11 +2680,9 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/15/2020 10:41:36,Hombre,38,Argentina,62900,53000
 7/15/2020 10:42:12,Hombre,43,Argentina,240000,240000
 7/15/2020 10:42:46,Hombre,53,Argentina,250000,170000
-7/15/2020 10:47:47,Hombre,30,Argentina,"73,14",63.284
 7/15/2020 10:47:54,Hombre,26,Argentina,70000,58000
 7/15/2020 10:50:03,Hombre,29,Argentina,140000,105000
 7/15/2020 10:55:13,Hombre,28,Argentina,109767,84824
-7/15/2020 10:56:20,Hombre,26,Argentina,"111242,73","85103,31"
 7/15/2020 10:56:47,Hombre,33,Argentina,100377,81000
 7/15/2020 10:57:39,Hombre,28,Argentina,69000,56000
 7/15/2020 10:57:52,Hombre,27,Argentina,84400,65000
@@ -2767,7 +2700,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/15/2020 11:19:24,Hombre,42,Argentina,180000,117000
 7/15/2020 11:23:22,Mujer,32,Argentina,138000,104000
 7/15/2020 11:23:49,Hombre,40,Argentina,95000,85000
-7/15/2020 11:24:07,Hombre,26,Argentina,"47958,75",42127
 7/15/2020 11:26:33,Hombre,28,Argentina,73600,60900
 7/15/2020 11:28:05,Hombre,25,Argentina,4300,3800
 7/15/2020 11:29:27,Hombre,33,Argentina,120000,86000
@@ -2788,7 +2720,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/15/2020 12:09:05,Hombre,42,Argentina,210000,160000
 7/15/2020 12:11:58,Hombre,33,Argentina,100000,80000
 7/15/2020 12:14:30,Mujer,33,Argentina,63500,53500
-7/15/2020 12:15:02,Hombre,36,Uruguay,"158397,5",95270
 7/15/2020 12:20:09,Hombre,27,Argentina,200000,140000
 7/15/2020 12:24:58,Hombre,33,Argentina,172000,127000
 7/15/2020 12:27:26,Hombre,40,Argentina,25000,25000
@@ -2890,7 +2821,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/15/2020 18:15:20,Hombre,40,Argentina,95000,80000
 7/15/2020 18:16:38,Hombre,35,Argentina,240000,210000
 7/15/2020 18:19:36,Hombre,24,Colombia,1490000,1300000
-7/15/2020 18:19:37,Hombre,23,Argentina,43,43
 7/15/2020 18:26:33,Hombre,34,Argentina,440000,400000
 7/15/2020 18:28:54,Hombre,36,Argentina,215000,180000
 7/15/2020 18:35:52,Hombre,35,Argentina,60000,48000
@@ -2920,7 +2850,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/15/2020 20:41:57,Mujer,33,Argentina,38000,34000
 7/15/2020 20:43:06,Mujer,34,Argentina,113000,86168
 7/15/2020 20:43:07,Hombre,32,Argentina,40000,40000
-7/15/2020 20:46:57,Hombre,31,Argentina,105300,105300
 7/15/2020 20:49:15,Hombre,25,Argentina,59000,48000
 7/15/2020 20:49:56,Hombre,33,Argentina,95000,75000
 7/15/2020 20:59:28,Hombre,29,Argentina,75000,65000
@@ -2975,7 +2904,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/16/2020 8:47:49,Hombre,35,Argentina,450000,350000
 7/16/2020 8:50:12,Mujer,27,Argentina,66777,55424
 7/16/2020 9:00:41,Hombre,33,Argentina,68000,55000
-7/16/2020 9:27:04,Hombre,35,Argentina,"91753,4",73241
 7/16/2020 9:29:54,Hombre,24,Argentina,89000,72000
 7/16/2020 9:36:02,Mujer,30,Argentina,64000,50000
 7/16/2020 9:36:10,Mujer,32,Argentina,100650,89788
@@ -3031,7 +2959,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/16/2020 16:17:37,Hombre,31,Argentina,75000,62000
 7/16/2020 16:39:50,Hombre,22,Argentina,65000,56000
 7/16/2020 16:40:23,Hombre,43,Argentina,90000,80000
-7/16/2020 16:44:08,Hombre,28,Argentina,"67,25",55
 7/16/2020 16:50:47,Mujer,28,Argentina,49514,41097
 7/16/2020 16:55:10,Hombre,34,Argentina,130,100
 7/16/2020 16:59:21,Hombre,35,Argentina,92000,73000
@@ -3098,9 +3025,7 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/16/2020 23:23:39,Hombre,40,Argentina,183000,140000
 7/16/2020 23:34:11,Hombre,26,Argentina,110000,85737
 7/16/2020 23:34:18,Hombre,25,Argentina,62834,58921
-7/16/2020 23:35:22,Hombre,22,Argentina,60,60
 7/16/2020 23:37:08,Hombre,23,Argentina,79000,65500
-7/16/2020 23:41:37,Mujer,39,Argentina,"160,5",109
 7/16/2020 23:46:23,Hombre,33,Argentina,92950,92950
 7/16/2020 23:51:04,Mujer,33,Argentina,200000,130000
 7/17/2020 0:01:43,Mujer,24,Argentina,25000,21000
@@ -3187,7 +3112,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/17/2020 13:45:28,Hombre,26,Argentina,75000,67500
 7/17/2020 13:48:25,Hombre,25,Argentina,40000,32000
 7/17/2020 13:58:26,Mujer,29,Argentina,66000,52000
-7/17/2020 13:58:58,Hombre,21,Argentina,42000,42000
 7/17/2020 14:01:53,Hombre,28,Argentina,151150,101440
 7/17/2020 14:10:04,Hombre,30,Argentina,90000,75000
 7/17/2020 14:12:21,Hombre,33,Argentina,200000,200000
@@ -3283,7 +3207,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/18/2020 20:02:48,Hombre,35,Argentina,170000,124000
 7/18/2020 20:28:48,Hombre,32,Argentina,44972,37328
 7/18/2020 20:29:24,Hombre,21,Argentina,42000,36000
-7/18/2020 20:42:31,Mujer,33,Argentina,"49397,59",41000
 7/18/2020 21:01:40,Hombre,31,Argentina,306000,200000
 7/18/2020 21:25:00,Hombre,32,Argentina,75000,60000
 7/18/2020 21:34:31,Mujer,30,Argentina,60000,49000
@@ -3341,7 +3264,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/20/2020 10:02:25,Hombre,43,Argentina,120000,98000
 7/20/2020 10:06:39,Hombre,29,Argentina,42123,32700
 7/20/2020 10:19:32,Hombre,36,Argentina,500000,500000
-7/20/2020 10:20:28,Mujer,27,Argentina,"55341,56","43590,87"
 7/20/2020 10:23:55,Hombre,32,Argentina,120000,90000
 7/20/2020 10:39:07,Mujer,25,Argentina,45000,37000
 7/20/2020 10:43:42,Hombre,28,Argentina,103800,80400
@@ -3436,13 +3358,11 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/21/2020 10:24:50,Hombre,25,Argentina,680000,397000
 7/21/2020 10:25:05,Hombre,25,Argentina,680000,397000
 7/21/2020 10:29:11,Hombre,33,Argentina,145121,108000
-7/21/2020 10:33:37,Hombre,26,Argentina,"46030,06","37436,26"
 7/21/2020 10:38:19,Hombre,27,Argentina,100000,78000
 7/21/2020 10:38:41,Hombre,37,Argentina,123000,90000
 7/21/2020 10:44:14,Hombre,37,Argentina,140000,100000
 7/21/2020 10:45:55,Hombre,31,Argentina,1439100,1066000
 7/21/2020 10:48:03,Hombre,26,Argentina,200000,130000
-7/21/2020 10:49:16,Hombre,33,Argentina,"202346,08","202346,08"
 7/21/2020 10:54:25,Hombre,43,Argentina,95000,75000
 7/21/2020 10:59:42,Mujer,30,Argentina,82000,66000
 7/21/2020 10:59:56,Hombre,34,Argentina,88000,92000
@@ -3453,8 +3373,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/21/2020 11:14:16,Hombre,37,Argentina,60000,110000
 7/21/2020 11:16:18,Hombre,31,Argentina,48331,43000
 7/21/2020 11:16:38,Hombre,36,Argentina,100000,124000
-7/21/2020 11:17:53,Mujer,30,Argentina,41,41
-7/21/2020 11:19:23,Hombre,25,Argentina,"70041,54","58134,48"
 7/21/2020 11:22:49,Mujer,37,Argentina,70000,58000
 7/21/2020 11:24:53,Mujer,32,Argentina,61312,50890
 7/21/2020 11:37:55,Hombre,40,Argentina,210000,185000
@@ -3500,7 +3418,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/21/2020 19:22:14,Hombre,43,Argentina,145000,112000
 7/21/2020 19:26:59,Mujer,30,Argentina,85000,70000
 7/21/2020 19:28:29,Mujer,23,Argentina,37000,31000
-7/21/2020 19:29:28,Mujer,31,Argentina,44150,44150
 7/21/2020 19:38:58,Mujer,26,Argentina,70000,60000
 7/21/2020 19:46:17,Hombre,41,Argentina,80000,7000
 7/21/2020 20:04:27,Hombre,34,Argentina,65000,50000
@@ -3529,7 +3446,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/22/2020 1:00:01,Hombre,37,Argentina,70000,75000
 7/22/2020 1:01:30,Hombre,32,Argentina,120000,88
 7/22/2020 7:10:59,Hombre,37,Argentina,40000,38000
-7/22/2020 8:10:14,Hombre,28,Argentina,"69007,14","55550,75"
 7/22/2020 8:49:13,Hombre,32,Argentina,105000,82000
 7/22/2020 9:11:55,Hombre,40,Argentina,180266,91940
 7/22/2020 9:24:00,Hombre,28,Argentina,67000,54000
@@ -3576,7 +3492,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/22/2020 13:47:13,Hombre,27,Argentina,89000,73000
 7/22/2020 13:48:11,Hombre,20,Argentina,92000,78000
 7/22/2020 13:48:09,Hombre,35,Argentina,85600,76000
-7/22/2020 13:49:16,Hombre,24,Argentina,139150,139150
 7/22/2020 13:50:36,Hombre,33,Argentina,175000,127000
 7/22/2020 13:52:27,Hombre,38,Argentina,122000,86000
 7/22/2020 13:52:31,Hombre,29,Argentina,111111,83000
@@ -3586,7 +3501,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/22/2020 14:06:43,Hombre,25,Argentina,85000,75000
 7/22/2020 14:07:29,Hombre,34,Argentina,125100,93800
 7/22/2020 14:08:03,Hombre,35,Argentina,135000,110000
-7/22/2020 14:10:14,Hombre,31,Argentina,"104630,98","77407,1"
 7/22/2020 14:16:53,Hombre,36,Argentina,100000,75000
 7/22/2020 14:18:28,Hombre,35,Argentina,175000,120000
 7/22/2020 14:19:00,Hombre,43,Argentina,138000,96000
@@ -3629,7 +3543,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/22/2020 15:41:10,Hombre,45,Argentina,140000,117000
 7/22/2020 15:41:23,Hombre,48,Argentina,350000,350000
 7/22/2020 15:45:20,Hombre,34,Argentina,109000,91000
-7/22/2020 15:49:37,Mujer,36,Argentina,"39175,51","32515,67"
 7/22/2020 15:49:54,Hombre,20,Argentina,31000,24500
 7/22/2020 15:52:48,Hombre,30,Argentina,101000,80000
 7/22/2020 16:00:35,Hombre,29,Argentina,130000,98000
@@ -3691,7 +3604,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/23/2020 10:45:10,Hombre,34,Argentina,21100,21100
 7/23/2020 11:07:54,Hombre,37,Argentina,400000,370000
 7/23/2020 12:29:39,Hombre,39,Argentina,60000,55000
-7/23/2020 13:01:03,Hombre,28,Argentina,"129556,98","102472,12"
 7/23/2020 13:59:22,Hombre,39,Argentina,130000,95000
 7/23/2020 14:09:10,Hombre,25,Argentina,110000,84000
 7/23/2020 14:12:57,Hombre,40,Argentina,50,44
@@ -3723,7 +3635,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/24/2020 12:01:21,Hombre,22,Argentina,45816,36882
 7/24/2020 12:04:10,Hombre,26,Argentina,90000,73000
 7/24/2020 12:23:22,Hombre,41,Argentina,163000,140000
-7/24/2020 12:25:57,Hombre,25,Argentina,"1367,46",1311
 7/24/2020 12:26:44,Hombre,20,Argentina,56000,49000
 7/24/2020 13:07:22,Mujer,27,Argentina,63855,53000
 7/24/2020 13:27:45,Hombre,24,Argentina,45000,40000
@@ -3740,7 +3651,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/24/2020 16:37:21,Hombre,33,Argentina,82800,67500
 7/24/2020 17:58:40,Hombre,27,Argentina,87750,70798
 7/24/2020 18:03:25,Hombre,29,Argentina,79000,63000
-7/24/2020 18:58:19,Mujer,30,Argentina,142184,142184
 7/24/2020 21:31:17,Hombre,40,Argentina,110000,82000
 7/24/2020 22:04:45,Hombre,41,Argentina,170000,120000
 7/24/2020 22:17:27,Hombre,21,Argentina,50000,43000
@@ -3772,9 +3682,7 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/25/2020 17:19:13,Mujer,30,Argentina,77370,63490
 7/25/2020 17:30:09,Hombre,39,Argentina,33000,255000
 7/25/2020 18:08:22,Hombre,52,Argentina,60000,54000
-7/25/2020 19:42:39,Mujer,37,Argentina,155938,155938
 7/25/2020 23:57:40,Hombre,28,Argentina,180765,137076
-7/26/2020 1:10:19,Hombre,25,Argentina,"184810,42",131127
 7/26/2020 2:03:40,Hombre,30,Argentina,70000,50000
 7/26/2020 2:38:02,Hombre,29,Argentina,180000,113000
 7/26/2020 2:45:57,Hombre,23,Argentina,51000,45000
@@ -3938,10 +3846,8 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/28/2020 16:25:26,Mujer,28,Argentina,150000,112000
 7/28/2020 16:29:34,Hombre,27,Argentina,57000,52000
 7/28/2020 16:29:35,Mujer,37,Argentina,98000,85000
-7/28/2020 16:30:44,Mujer,37,Argentina,200360,200360
 7/28/2020 16:31:28,Hombre,24,Argentina,130000,92000
 7/28/2020 16:32:32,Mujer,22,Argentina,41000,37350
-7/28/2020 16:33:17,Hombre,25,Argentina,76769,76769
 7/28/2020 16:34:50,Mujer,26,Argentina,45000,36000
 7/28/2020 16:36:02,Hombre,43,Argentina,64500,57000
 7/28/2020 16:45:44,Hombre,24,Argentina,100000,97500
@@ -4080,7 +3986,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/30/2020 9:51:08,Hombre,23,Argentina,38000,34000
 7/30/2020 10:01:46,Hombre,29,Argentina,84000,68000
 7/30/2020 10:02:26,Hombre,27,Argentina,45000,41000
-7/30/2020 10:16:21,Hombre,30,Argentina,73425,73425
 7/30/2020 10:16:22,Hombre,36,Argentina,144000,144000
 7/30/2020 10:25:53,Hombre,43,Argentina,90000,75000
 7/30/2020 10:35:55,Hombre,36,Argentina,180000,170000
@@ -4104,7 +4009,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/30/2020 15:11:54,Hombre,34,Uruguay,135000,115000
 7/30/2020 15:15:20,Hombre,29,Argentina,73000,56000
 7/30/2020 15:23:31,Mujer,31,Argentina,45243,36422
-7/30/2020 15:35:30,Hombre,20,Argentina,90665,90665
 7/30/2020 15:51:07,Hombre,40,Argentina,100000,80000
 7/30/2020 16:31:16,Hombre,30,Argentina,92500,75000
 7/30/2020 16:50:45,Hombre,45,Argentina,224000,150000
@@ -4151,7 +4055,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 7/31/2020 10:08:43,Mujer,29,Argentina,133000,110000
 7/31/2020 10:32:45,Hombre,43,Argentina,128800,98000
 7/31/2020 10:43:52,Hombre,30,Argentina,120000,80000
-7/31/2020 11:04:15,Hombre,34,Argentina,259000,259000
 7/31/2020 11:18:39,Hombre,33,Argentina,55000,49000
 7/31/2020 11:20:50,Hombre,28,Argentina,121000,92000
 7/31/2020 11:36:48,Hombre,27,Argentina,133000,97000
@@ -4288,7 +4191,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/2/2020 13:34:21,Hombre,43,Argentina,15900,42000
 8/2/2020 14:27:48,Mujer,39,Argentina,182000,123000
 8/2/2020 14:29:45,Hombre,22,Argentina,65000,53000
-8/2/2020 14:33:43,Hombre,36,Argentina,"67210,4","55752,47"
 8/2/2020 15:01:54,Hombre,42,Argentina,87500,87500
 8/2/2020 15:49:36,Hombre,32,Argentina,400000,280000
 8/2/2020 16:30:02,Hombre,29,Argentina,100000,83000
@@ -4336,7 +4238,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/3/2020 10:29:34,Mujer,28,Argentina,130166,89571
 8/3/2020 10:29:41,Hombre,40,Argentina,310000,220000
 8/3/2020 10:29:42,Hombre,29,Argentina,540,540
-8/3/2020 10:29:49,Hombre,30,Argentina,"147675,61",108576
 8/3/2020 10:29:56,Hombre,47,Argentina,185000,140000
 8/3/2020 10:30:29,Hombre,35,Argentina,95000,73000
 8/3/2020 10:30:32,Hombre,25,Argentina,400500,396000
@@ -4371,7 +4272,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/3/2020 10:43:29,Hombre,31,Argentina,75000,62000
 8/3/2020 10:44:39,Hombre,32,Argentina,130000,95000
 8/3/2020 10:44:49,Hombre,19,Argentina,32500,30000
-8/3/2020 10:45:33,Mujer,25,Argentina,"77589,96","62933,86"
 8/3/2020 10:46:33,Hombre,29,Argentina,130000,107900
 8/3/2020 10:50:51,Hombre,30,Argentina,128250,107000
 8/3/2020 10:52:36,Hombre,30,Argentina,179630,125000
@@ -4389,7 +4289,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/3/2020 11:04:58,Hombre,21,Argentina,36000,30000
 8/3/2020 11:05:09,Hombre,24,Argentina,75903,62557
 8/3/2020 11:05:20,Hombre,50,Argentina,65333,43981
-8/3/2020 11:05:58,Mujer,36,Argentina,"148529,67",97495
 8/3/2020 11:06:14,Hombre,21,Argentina,165000,110000
 8/3/2020 11:06:38,Hombre,23,Argentina,46000,38000
 8/3/2020 11:07:13,Hombre,54,Argentina,114000,89000
@@ -4405,7 +4304,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/3/2020 11:10:02,Hombre,33,Colombia,4500000,4500000
 8/3/2020 11:11:26,Hombre,25,Argentina,330000,300000
 8/3/2020 11:12:22,Mujer,26,Argentina,90000,80000
-8/3/2020 11:12:42,Mujer,41,Argentina,"77954,58","57074,28"
 8/3/2020 11:12:47,Hombre,29,Argentina,140000,99000
 8/3/2020 11:13:29,Hombre,25,Argentina,94000,75000
 8/3/2020 11:14:14,Hombre,27,Argentina,500000,300000
@@ -4499,7 +4397,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/3/2020 12:16:31,Hombre,27,Argentina,69000,60000
 8/3/2020 12:16:33,Hombre,32,Argentina,43000,36000
 8/3/2020 12:16:54,Hombre,35,Argentina,210000,137000
-8/3/2020 12:17:24,Hombre,32,Argentina,"60240,96",53320
 8/3/2020 12:17:39,Hombre,48,Argentina,100000,74000
 8/3/2020 12:17:46,Hombre,38,Uruguay,250000,160000
 8/3/2020 12:18:12,Hombre,26,Argentina,150000,110000
@@ -4534,7 +4431,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/3/2020 12:25:45,Hombre,24,Argentina,100000,81000
 8/3/2020 12:25:38,Hombre,44,Argentina,290000,210000
 8/3/2020 12:26:06,Hombre,25,Argentina,70000,70000
-8/3/2020 12:26:14,Hombre,35,Argentina,"86987,95",72200
 8/3/2020 12:26:49,Hombre,35,Argentina,140000,120000
 8/3/2020 12:27:12,Hombre,28,Argentina,50000,41500
 8/3/2020 12:27:31,Mujer,50,Argentina,227000,135000
@@ -4550,7 +4446,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/3/2020 12:31:27,Mujer,28,Argentina,90000,77000
 8/3/2020 12:31:41,Hombre,33,Argentina,290000,290000
 8/3/2020 12:31:51,Hombre,30,Argentina,130000,90000
-8/3/2020 12:32:39,Hombre,43,Argentina,"79922,48",73232
 8/3/2020 12:33:16,Hombre,34,Argentina,107000,83000
 8/3/2020 12:34:19,Hombre,27,Argentina,390000,350000
 8/3/2020 12:34:33,Hombre,44,Argentina,141,109
@@ -4629,7 +4524,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/3/2020 13:33:13,Hombre,31,Argentina,190000,190000
 8/3/2020 13:39:08,Hombre,35,Argentina,160000,114000
 8/3/2020 13:40:02,Hombre,22,Argentina,27000,25
-8/3/2020 13:41:25,Mujer,30,Argentina,53.699,53.699
 8/3/2020 13:45:11,Hombre,33,Argentina,65000,65000
 8/3/2020 13:45:34,Hombre,26,Argentina,60000,60000
 8/3/2020 13:47:05,Hombre,33,Argentina,103000,88000
@@ -4706,7 +4600,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/3/2020 16:47:49,Hombre,35,Argentina,120000,90000
 8/3/2020 16:50:41,Mujer,43,Argentina,190000,155800
 8/3/2020 16:50:50,Hombre,23,Argentina,100000,83000
-8/3/2020 16:51:51,Hombre,46,Argentina,"58540,88","47125,4"
 8/3/2020 16:57:45,Hombre,39,Argentina,260000,257000
 8/3/2020 17:01:55,Mujer,33,Argentina,94000,75000
 8/3/2020 17:17:12,Hombre,41,Argentina,54800,52600
@@ -4717,7 +4610,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/3/2020 17:33:34,Hombre,33,Argentina,79200,69056
 8/3/2020 17:41:00,Hombre,24,Argentina,91542,73505
 8/3/2020 17:42:22,Hombre,48,Argentina,400000,300000
-8/3/2020 17:42:53,Hombre,24,Argentina,"89548,2","71986,14"
 8/3/2020 17:54:30,Hombre,30,Argentina,64000,64000
 8/3/2020 17:56:10,Hombre,37,Argentina,139000,103000
 8/3/2020 17:56:32,Hombre,57,Argentina,210000,150000
@@ -4778,11 +4670,9 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/4/2020 0:01:53,Hombre,31,Argentina,98000,76000
 8/4/2020 0:16:09,Hombre,33,Argentina,145000,113000
 8/4/2020 0:22:01,Hombre,30,Argentina,179630,125000
-8/4/2020 0:29:56,Hombre,26,Argentina,"112698,99",86541
 8/4/2020 1:06:25,Hombre,38,Argentina,140000,100000
 8/4/2020 1:36:00,Hombre,46,Argentina,200000,150000
 8/4/2020 2:02:14,Hombre,34,Argentina,223000,145000
-8/4/2020 2:39:27,Hombre,27,México,"24099,9","18248,78"
 8/4/2020 5:09:42,Hombre,47,Argentina,78000,65000
 8/4/2020 6:00:06,Hombre,26,Argentina,55000,45000
 8/4/2020 8:39:34,Hombre,40,Argentina,67000,67000
@@ -4800,7 +4690,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/4/2020 10:26:17,Hombre,41,Argentina,293995,192072
 8/4/2020 10:27:14,Mujer,47,Argentina,91400,76000
 8/4/2020 10:31:06,Hombre,26,Argentina,39000,35000
-8/4/2020 10:32:15,Hombre,25,Argentina,"46867,47",38900
 8/4/2020 10:41:50,Hombre,22,Argentina,52000,47000
 8/4/2020 10:46:51,Hombre,27,Argentina,47000,39000
 8/4/2020 11:07:27,Hombre,48,Argentina,129395,93348
@@ -4855,7 +4744,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/5/2020 12:50:55,Hombre,28,Argentina,30000,25000
 8/5/2020 13:17:17,Hombre,42,Argentina,140000,105000
 8/5/2020 13:52:15,Hombre,22,Argentina,35009,29500
-8/5/2020 13:57:11,Hombre,25,Argentina,"88481,7","69794,55"
 8/5/2020 14:18:26,Hombre,26,Argentina,105000,85000
 8/5/2020 14:30:49,Hombre,24,Argentina,180000,120000
 8/5/2020 15:01:25,Hombre,29,Argentina,280000,260000
@@ -4872,7 +4760,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/6/2020 0:26:22,Hombre,42,Argentina,95000,80000
 8/6/2020 0:28:20,Hombre,23,Argentina,58000,37000
 8/6/2020 0:29:01,Hombre,31,Argentina,360000,320000
-8/6/2020 0:29:44,Hombre,24,Argentina,"54,7","37,9"
 8/6/2020 0:31:10,Mujer,20,Argentina,40000,40000
 8/6/2020 0:32:25,Hombre,28,Argentina,72000,60000
 8/6/2020 0:33:52,Hombre,25,Argentina,77000,55000
@@ -5114,7 +5001,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/8/2020 18:59:33,Hombre,32,Perú,3000,2500
 8/8/2020 19:00:12,Hombre,31,Argentina,24000,22000
 8/8/2020 19:00:42,Hombre,33,México,40000,40000
-8/8/2020 19:03:12,Hombre,26,Argentina,"10602,41",80000
 8/8/2020 19:03:17,Hombre,43,Argentina,60500,50000
 8/8/2020 19:04:02,Hombre,24,Argentina,70000,62000
 8/8/2020 19:05:06,Hombre,27,Argentina,20,17
@@ -5174,7 +5060,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/8/2020 19:52:10,Hombre,25,Argentina,59830,49000
 8/8/2020 19:52:52,Hombre,24,Argentina,18000,15000
 8/8/2020 19:52:56,Hombre,34,Argentina,75000,69000
-8/8/2020 19:55:08,Mujer,34,Argentina,"48584,7","43114,14"
 8/8/2020 19:55:10,Hombre,52,Argentina,116000,89000
 8/8/2020 19:56:27,Hombre,25,Argentina,85000,68350
 8/8/2020 19:56:38,Hombre,61,Argentina,100000,80000
@@ -5246,7 +5131,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/8/2020 20:55:20,Hombre,33,Argentina,81000,67000
 8/8/2020 20:55:31,Hombre,32,Argentina,49000,41600
 8/8/2020 21:02:19,Mujer,23,Colombia,1800000,1800000
-8/8/2020 21:03:55,Mujer,32,Argentina,"66318,72","53819,09"
 8/8/2020 21:09:56,Hombre,23,Argentina,102000,78000
 8/8/2020 21:11:26,Hombre,24,Argentina,95000,70000
 8/8/2020 21:14:15,Hombre,29,Argentina,200000,130000
@@ -5270,11 +5154,9 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/8/2020 21:44:56,Hombre,35,Argentina,180000,160000
 8/8/2020 21:45:12,Hombre,32,Argentina,122000,95000
 8/8/2020 21:45:27,Hombre,29,Perú,5000,4250
-8/8/2020 21:45:51,Hombre,23,Argentina,43184,43184
 8/8/2020 21:46:19,Hombre,32,Argentina,67000,56000
 8/8/2020 21:46:53,Hombre,29,Argentina,112000,96000
 8/8/2020 21:47:00,Hombre,29,Argentina,5000,42000
-8/8/2020 21:51:30,Hombre,52,Argentina,"61220,4","50216,35"
 8/8/2020 21:53:14,Hombre,45,Argentina,16000,25000
 8/8/2020 21:53:36,Hombre,32,Argentina,180000,123000
 8/8/2020 21:54:56,Hombre,35,Argentina,110000,88100
@@ -5448,7 +5330,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/9/2020 10:39:55,Hombre,34,Argentina,67500,53500
 8/9/2020 10:42:19,Hombre,32,Argentina,216000,150000
 8/9/2020 10:46:55,Hombre,37,Argentina,100000,80000
-8/9/2020 10:52:11,Hombre,21,Argentina,"131,92",89000
 8/9/2020 11:13:46,Hombre,24,Argentina,73000,60000
 8/9/2020 11:15:07,Hombre,33,Argentina,80000,67500
 8/9/2020 11:15:57,Hombre,37,Argentina,80000,45000
@@ -5473,7 +5354,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/9/2020 12:36:56,Hombre,29,México,30000,25000
 8/9/2020 12:37:12,Hombre,42,Argentina,72000,61500
 8/9/2020 12:49:00,Mujer,31,Argentina,80000,65000
-8/9/2020 12:58:46,Hombre,38,Argentina,"39714,98","13894,17"
 8/9/2020 13:01:16,Hombre,25,Paraguay,4800000,4000000
 8/9/2020 13:24:57,Hombre,38,Argentina,105000,84000
 8/9/2020 13:25:48,Mujer,31,Argentina,100,83000
@@ -5582,7 +5462,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/9/2020 19:28:09,Hombre,27,Argentina,330000,300000
 8/9/2020 19:28:16,Hombre,25,Argentina,18000,22980
 8/9/2020 19:39:48,Hombre,35,Argentina,80000,80000
-8/9/2020 19:43:43,Mujer,30,Argentina,"93400,92","82480,08"
 8/9/2020 19:44:38,Hombre,32,Argentina,49336,32500
 8/9/2020 19:45:09,Hombre,28,Argentina,86000,69000
 8/9/2020 19:45:21,Hombre,36,Argentina,70000,59000
@@ -5702,7 +5581,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/10/2020 12:35:54,Hombre,38,Argentina,52773,42851
 8/10/2020 12:54:35,Hombre,39,Argentina,60000,53000
 8/10/2020 12:55:56,Mujer,51,Argentina,109000,89000
-8/10/2020 12:57:57,Hombre,30,Argentina,"87091,64","72286,06"
 8/10/2020 13:02:52,Hombre,45,Argentina,178000,120000
 8/10/2020 13:20:05,Hombre,31,Argentina,113000,86000
 8/10/2020 13:22:58,Hombre,33,Argentina,181000,127000
@@ -5741,7 +5619,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/10/2020 16:06:10,Hombre,39,Argentina,56000,45000
 8/10/2020 16:07:12,Hombre,26,Argentina,108000,78000
 8/10/2020 16:07:41,Hombre,43,Argentina,71000,71000
-8/10/2020 16:08:35,Hombre,44,Argentina,"54501,76","45232,67"
 8/10/2020 16:09:00,Hombre,32,Argentina,210000,190000
 8/10/2020 16:09:53,Hombre,32,Argentina,120771,90410
 8/10/2020 16:10:27,Hombre,41,Argentina,135880,98984
@@ -5760,7 +5637,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/10/2020 16:20:31,Hombre,60,Argentina,92000,75000
 8/10/2020 16:21:04,Hombre,40,Argentina,135000,115000
 8/10/2020 16:21:20,Hombre,39,Chile,1250000,950000
-8/10/2020 16:24:16,Hombre,43,Argentina,"77,2",65
 8/10/2020 16:24:22,Mujer,26,Argentina,150000,133000
 8/10/2020 16:24:29,Hombre,27,Argentina,211235,139762
 8/10/2020 16:25:33,Hombre,28,Argentina,165000,107000
@@ -5806,7 +5682,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/10/2020 17:22:45,Hombre,51,Argentina,80000,65000
 8/10/2020 17:23:26,Mujer,31,Argentina,80000,65000
 8/10/2020 17:26:40,Hombre,34,Argentina,88552,72649
-8/10/2020 17:27:02,Mujer,50,Argentina,"85,1",70.043
 8/10/2020 17:30:19,Hombre,29,Argentina,83000,63000
 8/10/2020 17:31:16,Mujer,29,Argentina,2000,2000
 8/10/2020 17:32:50,Hombre,42,Argentina,100000,80000
@@ -5863,7 +5738,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/10/2020 20:09:59,Mujer,30,Argentina,107486,91360
 8/10/2020 20:12:47,Hombre,38,Argentina,700000,650000
 8/10/2020 20:15:13,Hombre,35,Argentina,112000,98000
-8/10/2020 20:18:07,Mujer,29,Argentina,75000,75000
 8/10/2020 20:23:54,Mujer,25,Argentina,75000,75000
 8/10/2020 20:23:57,Mujer,28,Argentina,63500,52000
 8/10/2020 20:29:51,Hombre,52,Argentina,100000,85000
@@ -6017,7 +5891,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/11/2020 11:41:13,Mujer,36,Argentina,145000,100000
 8/11/2020 11:42:18,Hombre,27,Argentina,48.756,40.238
 8/11/2020 11:42:41,Hombre,32,Argentina,70361,58230
-8/11/2020 11:44:58,Hombre,20,Argentina,73493,61000
 8/11/2020 11:47:20,Mujer,55,Argentina,125000,90000
 8/11/2020 11:49:41,Hombre,22,Argentina,1100,1100
 8/11/2020 11:56:26,Hombre,37,Argentina,125000,104499
@@ -6027,7 +5900,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/11/2020 12:06:57,Hombre,34,Argentina,480000,300000
 8/11/2020 12:07:56,Mujer,27,Argentina,38000,32500
 8/11/2020 12:08:40,Hombre,25,Argentina,72000,61000
-8/11/2020 12:09:31,Mujer,27,Argentina,37,38
 8/11/2020 12:10:54,Hombre,48,Argentina,149000,108000
 8/11/2020 12:11:32,Hombre,23,Argentina,53000,43990
 8/11/2020 12:18:21,Hombre,31,Argentina,95000,74000
@@ -6083,7 +5955,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/11/2020 13:47:04,Hombre,33,Argentina,150000,150000
 8/11/2020 13:48:50,Hombre,33,Argentina,100000,80000
 8/11/2020 13:49:33,Hombre,33,Argentina,182000,130000
-8/11/2020 13:49:34,Hombre,28,Argentina,135.473,135.473
 8/11/2020 13:51:48,Hombre,30,Argentina,200000,130000
 8/11/2020 13:53:50,Hombre,25,Argentina,63000,52000
 8/11/2020 13:54:39,Mujer,30,Argentina,150000,10000
@@ -6091,7 +5962,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/11/2020 13:55:12,Hombre,26,Argentina,48000,40000
 8/11/2020 13:55:36,Hombre,42,Argentina,530000,300000
 8/11/2020 14:07:44,Hombre,22,Argentina,65000,54000
-8/11/2020 14:11:54,Hombre,28,Argentina,"93975,9",78000
 8/11/2020 14:24:52,Hombre,39,Argentina,46300,38500
 8/11/2020 14:29:10,Hombre,35,Argentina,140000,111000
 8/11/2020 14:32:16,Hombre,42,Argentina,200000,150000
@@ -6127,7 +5997,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/11/2020 15:58:59,Mujer,22,Argentina,22000,22000
 8/11/2020 15:59:36,Mujer,31,Argentina,190000,120000
 8/11/2020 16:01:47,Hombre,36,Argentina,109000,80000
-8/11/2020 16:02:13,Hombre,36,Argentina,103971,67260
 8/11/2020 16:03:34,Hombre,39,Argentina,310000,200000
 8/11/2020 16:06:05,Hombre,28,Argentina,150000,107000
 8/11/2020 16:10:23,Mujer,44,Argentina,150000,120000
@@ -6166,7 +6035,6 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/11/2020 17:55:53,Hombre,25,Argentina,220000,140000
 8/11/2020 18:15:32,Mujer,29,Argentina,220,150
 8/11/2020 18:23:51,Hombre,27,Argentina,150000,98000
-8/11/2020 18:24:18,Hombre,27,Argentina,81855,69747
 8/11/2020 18:26:32,Hombre,35,Argentina,180000,130000
 8/11/2020 18:29:16,Hombre,34,Argentina,400000,400000
 8/11/2020 18:29:39,Hombre,37,Argentina,185000,135000
@@ -6398,7 +6266,7 @@ Timestamp,Me identifico,Tengo,Estoy trabajando en,Salario mensual BRUTO (en tu m
 8/15/2020 15:33:35,Hombre,45,Venezuela,40000000,40000000
 8/15/2020 15:51:23,Hombre,35,México,110000,100000
 8/15/2020 15:52:47,Hombre,30,Argentina,580000,391000
-8/15/2020 16:04:34,Hombre,28,México,30000,30000
+8/15/2020 16:04:34,Hombre,28,México,1,30000
 8/15/2020 16:08:55,Hombre,21,Argentina,20000,18000
 8/15/2020 16:14:07,Hombre,33,Argentina,140000,100000
 8/15/2020 16:18:00,Hombre,31,Argentina,90000,70000
